@@ -1,0 +1,107 @@
+body {
+    background-color: rgb(0, 0, 0);
+    margin: 0px;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+.top-container {
+    height: 100vh;
+}
+.fon {
+    font-family: 'Press Start 2P', cursive;
+    margin-top: 0px;
+    padding-top: 50px;
+    font-size: 2.3rem;
+
+}
+.fo {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 1.6rem;
+}
+.middle-container {
+    
+}
+.bottom-container {
+    background-color: aliceblue;
+    color: black;
+    padding: 50px 0 20px;
+}
+.last-container {
+    
+}
+a {
+    text-decoration: none;
+    color: black;
+    margin:30px;
+    font-size: 32px;
+}
+a:hover {
+    color: rgb(87, 87, 87);
+}
+.wid {
+    width: 20%;   
+}
+.iam {
+    border-radius: 100%;
+    width:200px;
+    padding: 20px;
+}
+.niam {
+    border-radius: 100%;
+    width: 250px;
+    float: left;
+    margin-right: 15px;
+}
+.nam {
+    border-radius: 100%;
+    width: 250px;
+    float: right;
+    margin-left: 15px;
+}
+p {
+    font-size: 1.4rem;
+    line-height: 2;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto ;
+    text-align: left;
+    line-height: 2em;
+}
+.ledo {
+    clear: right;
+}
+.rido {
+    clear: left;
+}
+hr {
+    border: 3px dotted grey;
+    width: 10%;
+    border-bottom: none;
+    margin: 100px auto;
+    border-width: 10px;
+}
+
+.intro {
+    width: 50%;
+    margin: auto;
+}
+.contact {
+    width: 40%;
+    margin:40px auto 60px;
+}
+.btn {
+
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 20px;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 30px;
+ }
